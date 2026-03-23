@@ -10,3 +10,6 @@
 2. 完成一次开源项目的 Pull Request 并被合并
 3. 学习团队协作开发流程，提升代码规范意识
 4. 期末能独立维护一个小型开源项目
+
+## 贡献计划 Issue
+查看我的贡献计划变化：[Issue #1](https://github.com/OSSD-Course-SYSU-1/2026Sp-25307117-Lab1/issues/1)
