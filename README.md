@@ -20,28 +20,26 @@
 2. 转盘停止转动后，抽奖结束，弹出抽中的文本和图片信息。
 
 ### 工程目录
-```
-├──entry/src/main/ets	            // 代码区
-│  ├──common
-│  │  ├──constants
-│  │  │  ├──ColorConstants.ets      // 颜色常量类
-│  │  │  ├──CommonConstants.ets     // 公共常量类 
-│  │  │  └──StyleConstants.ets      // 样式常量类 
-│  │  └──utils
-│  │     ├──CheckEmptyUtils.ets     // 数据判空工具类
-│  │     └──Logger.ets              // 日志打印类
-│  ├──entryability
-│  │  └──EntryAbility.ts            // 程序入口类
-│  ├──pages
-│  │  └──CanvasPage.ets             // 主界面	
-│  ├──view
-│  │  └──PrizeDialog.ets            // 中奖信息弹窗类
-│  └──viewmodel
-│     ├──DrawModel.ets              // 画布相关方法类
-│     ├──FillArcData.ets            // 绘制圆弧数据实体类
-│     └──PrizeData.ets              // 中奖信息实体类
-└──entry/src/main/resources         // 资源文件目录
-```
+├──entry/src/main/ets // 代码区
+│ ├──common
+│ │ ├──constants
+│ │ │ ├──ColorConstants.ets // 颜色常量类
+│ │ │ ├──CommonConstants.ets // 公共常量类
+│ │ │ └──StyleConstants.ets // 样式常量类
+│ │ └──utils
+│ │ ├──CheckEmptyUtils.ets // 数据判空工具类
+│ │ └──Logger.ets // 日志打印类
+│ ├──entryability
+│ │ └──EntryAbility.ts // 程序入口类
+│ ├──pages
+│ │ └──CanvasPage.ets // 主界面
+│ ├──view
+│ │ └──PrizeDialog.ets // 中奖信息弹窗类
+│ └──viewmodel
+│ ├──DrawModel.ets // 画布相关方法类
+│ ├──FillArcData.ets // 绘制圆弧数据实体类
+│ └──PrizeData.ets // 中奖信息实体类
+└──entry/src/main/resources // 资源文件目录
 
 ### 相关权限
 
