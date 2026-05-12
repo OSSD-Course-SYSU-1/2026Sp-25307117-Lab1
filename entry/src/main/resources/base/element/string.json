@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CanvasComponent"
+    },
+    {
+      "name": "text_confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "text_smile",
+      "value": "谢谢参与"
+    },
+    {
+      "name": "text_hamburger",
+      "value": "你答应我一件事"
+    },
+    {
+      "name": "text_cake",
+      "value": "我答应你一件事"
+    },
+    {
+      "name": "text_watermelon",
+      "value": "再抽一次"
+    },
+    {
+      "name": "prize_text_smile",
+      "value": "谢谢参与"
+    },
+    {
+      "name": "prize_text_hamburger",
+      "value": "恭喜！你答应我一件事"
+    },
+    {
+      "name": "prize_text_cake",
+      "value": "恭喜！我答应你一件事"
+    },
+    {
+      "name": "prize_text_watermelon",
+      "value": "恭喜！获得再抽一次"
+    }
+  ]
+}
